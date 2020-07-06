@@ -36,7 +36,8 @@ body {
   opacity: 0.8;
 }
 
-.home-section .fas {
+.home-section .fas,
+.create-section .fas {
   color: var(--primary-color);
   background: #fff;
   padding: 5px;
