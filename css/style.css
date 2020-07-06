@@ -40,5 +40,13 @@ body {
   color: var(--primary-color);
   background: #fff;
   padding: 5px;
-  border: 5px;
+  border-radius: 5px;
+}
+
+.explore-section .fas,
+.share-section .fas {
+  background: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
 }
